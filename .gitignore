@@ -1,0 +1,5 @@
+bin/
+obj/
+frames/
+kiosk_state.json
+*.user
